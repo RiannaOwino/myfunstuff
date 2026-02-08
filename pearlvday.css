@@ -8,6 +8,7 @@ h1 {
     color: white;
     text-decoration-style: dotted;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 
 }
 body {
@@ -28,3 +29,4 @@ body {
     }
 
 }
+
