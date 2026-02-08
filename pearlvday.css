@@ -21,7 +21,7 @@ body {
 @media (max-width: 600px) {
     body {
         font-size: 12px;
-        background-color: rgb(95, 63, 125);
+        background-color: #fbb8d4;
         color: rgb(214, 189, 236);
     }
     img {
@@ -29,4 +29,5 @@ body {
     }
 
 }
+
 
